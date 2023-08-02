@@ -13,7 +13,7 @@ and the Flutter guide for
 
 A gif library, you can control the gif play and pause, you can set the gif playback time and thus control the frame rate.
 
-![Screenshot](https://github.com/haishuangsu/gifx/blob/master/screenshot/screenshot.gif)
+![Screenshot](https://github.com/haishuangsu/gifx/blob/master/screenshot/screenshot.gif?raw=true)
 
 
 ## Getting started
