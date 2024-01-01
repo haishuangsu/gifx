@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-A gif library, you can control the gif play and pause, you can set the gif playback time and thus control the frame rate.
+A Flutter package, you can control the gif image play or pause, you also can set the gif playback time to control the frame rate.
 
 ![Screenshot](https://github.com/haishuangsu/gifx/blob/master/screenshot/screenshot.gif?raw=true)
 
@@ -22,7 +22,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```yaml
 dependencies:
-  gifx: ^1.0.0
+  gifx: ^1.0.1
 ```
 
 

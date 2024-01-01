@@ -1,6 +1,6 @@
 name: gifx
 description: A gif library, you can control the gif play and pause, you can set the gif playback time and thus control the frame rate.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/haishuangsu/gifx.git
 
 platforms:
@@ -11,7 +11,7 @@ platforms:
   windows:
 
 environment:
-  sdk: '>=2.18.5 <3.0.0'
+  sdk: '>=3.2.1 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
